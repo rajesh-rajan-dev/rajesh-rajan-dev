@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rajesh Rajan 👋
 
-<!--
-**rajesh-rajan-dev/rajesh-rajan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Backend Engineer based in Stockholm, Sweden.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Java 17+ · Spring Boot · Apache Kafka · Kubernetes · Docker  
+AWS (Certified Solutions Architect) · PostgreSQL · MongoDB · Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience
+- **Volvo Trucks** — Big Data Engineer & AI Platform Developer (2024–2025)
+- **Apica Systems AB** — Senior Java Developer (2021–2023)  
+- **Allianz Technology** — Technical Lead (2010–2021)
+
+## 📫 Contact
+- 📧 connect2rajeshrajan@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-rajan-358247100/)
+- 📍 Stockholm, Sweden
+
+## 🏆 Certifications
+- AWS Certified Solutions Architect – Associate
+- Sun Certified Java Programmer (SCJP)
+- Oracle Certified Professional Java EE
